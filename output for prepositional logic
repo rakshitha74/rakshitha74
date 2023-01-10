@@ -1,0 +1,5 @@
+Enter the clauses RV~P RV~Q ~RVP ~RVQ
+Enter the query: r
+Trying to prove (RV~P)^(RV~Q)^(~RVP)^(~RVQ)^(~r) by contradiction....
+Knowledge Base entails the query, proved by resolution
+> 
