@@ -1,0 +1,5 @@
+Enter FOL:
+∀ x, y Brother(x, y) ⇒ Sibling(x, y).
+The CNF form of the given FOL is: 
+x, y Brother(x, y) ⇒ Sibling(x, y).
+> 
